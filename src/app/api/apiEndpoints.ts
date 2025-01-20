@@ -1,4 +1,4 @@
-const BASE_URL = 'https://ems-backend-final.azurewebsites.net';
+const BASE_URL = 'https://ems-backend-frfkavaxadbybugv.canadacentral-01.azurewebsites.net';
 
 const API_ENDPOINTS = {
     SIGNUP_API: `${BASE_URL}/auth/register`,
